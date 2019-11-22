@@ -1,0 +1,10 @@
+{
+  "title": "Simple Renderdistance v1",
+  "type": "ServerContent",
+  "tags": [ "fun", "build" ],
+  "ignore": [
+    "*.psd",
+    "*.vcproj",
+    "*.svn*"
+  ]
+}
