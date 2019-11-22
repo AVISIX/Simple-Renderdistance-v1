@@ -1,6 +1,4 @@
 --[[
-    Categorization Initializer for the Starbase Model pack
-
     Copyright © Sixmax(STEAM_0:0:104139026) 2019
 
     Author: Sixmax / STEAM_0:0:104139026
